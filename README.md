@@ -31,6 +31,12 @@
 <br>
 <!--
 [![Marten's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaykerStudio&theme=tokyonight&count_private=true)](https://git.io/praveenscience)
+-->
+
+![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical)
+
+<!--
+Streak missing
 
 | ![Mayke's github stats](https://github-readme-stats.vercel.app/api?username=MaykerStudio&show_icons=true&theme=tokyonight&count_private=true) | ![Mayke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaykerStudio&theme=tokyonight&count_private=true) |
 | --- | --- |
