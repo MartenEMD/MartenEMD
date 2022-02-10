@@ -12,15 +12,15 @@
 - 🌱 I’m currently working with C#, Unity, Python
   
 
-<h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYEZEO3CIBA47RB3VI6YQE7EJA" width = 32px> </h2>
+<h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYEATTIFFJC3HKF6XH6YQE7RAQ" width = 32px> </h2>
 <p float="left">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYFNVSQC4UJ7WUPHNXQYQE7BCA">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYFBXQMFYYZ2MWRVOOCYQE7AOA">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYFX4EGJG6YAEETDPVMYQE7BMQ">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYENFJ6EJVPD7BFL2UGYQE7RUA">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYFSF2DNJF5DQUNMJNUYQE7SMA">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYEBSNNJGCWPRZI4HXCYQE7TSA">
 </p>
 
 
-<h2> Connect with me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Connect.gif?token=GHSAT0AAAAAABM6QQYE3HXHWYOWUTMTPZDCYQE7E3Q" width="100px"> </h2>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Connect.gif?token=GHSAT0AAAAAABM6QQYE6QWMHLGJIZCAHV5AYQE7WVQ" width="100px"> </h2>
 - Work in progress
 <!-- Add discord -->
   
