@@ -30,7 +30,7 @@
 <br>
 <br>
 
-[![Marten's github activity graph](https://activity-graph.herokuapp.com/graph?username=MartenEMD&custom_title=Marten's%activity&theme=react-dark&count_private=true&hide_border=true)](https://github.com/MartenEMD/github-readme-activity-graph)
+[![Marten's github activity graph](https://activity-graph.herokuapp.com/graph?username=MartenEMD&custom_title=Marten's+activity&theme=react-dark&count_private=true&hide_border=true)](https://github.com/MartenEMD/github-readme-activity-graph)
 
 | ![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Marten GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartenEMD&theme=tokyonight&count_private=true) |
 | --- | --- |
