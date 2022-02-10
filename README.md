@@ -1,4 +1,4 @@
-<h1> Hi I'm Marten! <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Tiger.JPG?token=GHSAT0AAAAAABM6QQYE22GYGXHMVO2UCVI2YQE65YA" width = 30px> </h1>
+<h1> Hi I'm Marten!</h1>
 <p align='center'>
 </p>
 
@@ -14,9 +14,9 @@
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYEQGABQ22J5I6FP5KAYQE6LJQ" width = 32px> </h2>
 <p float="left">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYFBCMARQQ5566MIRRKYQE6YQQ">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYE4USQK2WR2L2AAF2OYQE6ZOQ">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYE5ZCXW2UY52S6TVKIYQE6ZWQ">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYFNVSQC4UJ7WUPHNXQYQE7BCA">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYFBXQMFYYZ2MWRVOOCYQE7AOA">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYFX4EGJG6YAEETDPVMYQE7BMQ">
 </p>
 
 
