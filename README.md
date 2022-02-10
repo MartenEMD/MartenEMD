@@ -12,11 +12,11 @@
 - 🌱 I’m currently working with C#, Unity, Python
   
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/giphy.webp?token=GHSAT0AAAAAABM6QQYEKZKTMNVUVYCUMPCUYQE6HQA" width = 32px> </h2>
+<h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYEQGABQ22J5I6FP5KAYQE6LJQ" width = 32px> </h2>
 <p float="left">
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+  <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg">
+  <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
+  <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 </p>
 
 
