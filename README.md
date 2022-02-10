@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a student
   
-- <img width="10px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png?token=GHSAT0AAAAAABM6QQYEPCQZWF2OAHPETJI4YQFCIHQ"> I’m currently working with C#, Unity, Python
+- <img width="20px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png?token=GHSAT0AAAAAABM6QQYEPCQZWF2OAHPETJI4YQFCIHQ"> I’m currently working with C#, Unity, Python
   
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYFQABOKJS77RC7IEBQYQE7Y2Q" width = 32px> </h2>
@@ -34,7 +34,7 @@
 -->
 
 ![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+![Marten GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartenEMD&theme=tokyonight&count_private=true)
 <!--
 Streak missing
 
