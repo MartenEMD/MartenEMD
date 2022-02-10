@@ -25,10 +25,6 @@
   <a href="https://discordapp.com/users/479713616572973086"><img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Discord.png"></a>
   <a href="https://www.reddit.com/user/Marten_CSharp"><img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Reddit.png"></a>
 </p>
-  
-<br>
-<br>
-<br>
 
 [![Marten's github activity graph](https://activity-graph.herokuapp.com/graph?username=MartenEMD&custom_title=Marten's+activity&theme=react-dark&count_private=true&hide_border=true)](https://github.com/MartenEMD/github-readme-activity-graph)
 
