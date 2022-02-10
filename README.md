@@ -14,9 +14,9 @@
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYEQGABQ22J5I6FP5KAYQE6LJQ" width = 32px> </h2>
 <p float="left">
-  <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg">
-  <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
-  <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYFBCMARQQ5566MIRRKYQE6YQQ">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYE4USQK2WR2L2AAF2OYQE6ZOQ">
+  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYE5ZCXW2UY52S6TVKIYQE6ZWQ">
 </p>
 
 
