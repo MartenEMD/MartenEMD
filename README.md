@@ -20,7 +20,7 @@
 </p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYFMRCL3WCKBULB76G4YQE7CDQ" width="100px"> </h2>
 - Work in progress
 <!-- Add discord -->
   
