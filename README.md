@@ -33,7 +33,7 @@
 [![Marten's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaykerStudio&theme=tokyonight&count_private=true)](https://git.io/praveenscience)
 -->
 
-![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical)
+![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits)
 
 <!--
 Streak missing
