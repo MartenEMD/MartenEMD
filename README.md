@@ -35,8 +35,9 @@
 -->
 
 | ![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Marten GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartenEMD&theme=tokyonight&count_private=true) |
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 | --- | --- |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <!--
 Streak missing
