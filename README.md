@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a student
   
-- <img width="20px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png"> I’m currently working with C#, Unity, Python
+- <img width="25px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png"> I’m currently working with C#, Unity, Python
   
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp" width = 32px> </h2>
