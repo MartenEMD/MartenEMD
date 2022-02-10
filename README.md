@@ -33,17 +33,10 @@
 <!--
 [![Marten's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaykerStudio&theme=tokyonight&count_private=true)](https://git.io/praveenscience)
 -->
+[![Marten's github activity graph](https://activity-graph.herokuapp.com/graph?username=MartenEMD&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/MartenEMD/github-readme-activity-graph)
 
 | ![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Marten GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartenEMD&theme=tokyonight&count_private=true) |
 | --- | --- |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<!--
-Streak missing
-
-| ![Mayke's github stats](https://github-readme-stats.vercel.app/api?username=MaykerStudio&show_icons=true&theme=tokyonight&count_private=true) | ![Mayke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaykerStudio&theme=tokyonight&count_private=true) |
-| --- | --- |
--->
-
 <br>
