@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a student
   
-- 🌱 I’m currently working with C#, Unity, Python
+- <img width="10px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png?token=GHSAT0AAAAAABM6QQYEPCQZWF2OAHPETJI4YQFCIHQ"> I’m currently working with C#, Unity, Python
   
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYFQABOKJS77RC7IEBQYQE7Y2Q" width = 32px> </h2>
@@ -33,7 +33,7 @@
 [![Marten's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaykerStudio&theme=tokyonight&count_private=true)](https://git.io/praveenscience)
 -->
 
-![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits=true)
+![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits&count_private)
 
 <!--
 Streak missing
