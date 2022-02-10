@@ -22,7 +22,7 @@
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Connect.gif?token=GHSAT0AAAAAABM6QQYE6QWMHLGJIZCAHV5AYQE7WVQ" width="100px"> </h2>
 <p float="left">
-  
+  <a href="https://discordapp.com/users/479713616572973086"><img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Discord.png?token=GHSAT0AAAAAABM6QQYER5ANQA6W6JWQ6KCKYQFBBEQ"></a>
 </p>
   
 <br>
@@ -35,5 +35,4 @@
 | --- | --- |
 -->
 
-https://discordapp.com/users/479713616572973086
 <br>
