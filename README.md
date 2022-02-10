@@ -1,8 +1,8 @@
 <h1> Hi I'm Marten!</h1>
-<p align='center'>
+<p align="center">
 </p>
 
-<div size='20px'>  Thank You for taking the time to view my GitHub Profile. Most of my works happens in private repositories on Github.
+<div size="20px">  Thank You for taking the time to view my GitHub Profile. Most of my works happens in private repositories on Github.
 </div>
 
 <h2> About Me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/File.gif?token=GHSAT0AAAAAABM6QQYEYMLFH2YTMHXYHYFIYQE72EA" width = 50px></h2>
@@ -14,15 +14,16 @@
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp?token=GHSAT0AAAAAABM6QQYFQABOKJS77RC7IEBQYQE7Y2Q" width = 32px> </h2>
 <p float="left">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYFB6ZB2ON3Y4PXJ5BQYQE72RA">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYFHT5EFX2QGBYEYMLMYQE723Q">
-  <img width ="32px" src ="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYEBSNNJGCWPRZI4HXCYQE7TSA">
+  <img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Unity.png?token=GHSAT0AAAAAABM6QQYFB6ZB2ON3Y4PXJ5BQYQE72RA">
+  <img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/C%23.png?token=GHSAT0AAAAAABM6QQYFHT5EFX2QGBYEYMLMYQE723Q">
+  <img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Python.png?token=GHSAT0AAAAAABM6QQYEBSNNJGCWPRZI4HXCYQE7TSA">
 </p>
 
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Connect.gif?token=GHSAT0AAAAAABM6QQYE6QWMHLGJIZCAHV5AYQE7WVQ" width="100px"> </h2>
-- Work in progress
-<!-- Add discord -->
+<p float="left">
+  
+</p>
   
 <br>
 <br>
@@ -34,5 +35,5 @@
 | --- | --- |
 -->
 
-
+https://discordapp.com/users/479713616572973086
 <br>
