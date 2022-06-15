@@ -5,7 +5,7 @@
 <div size="20px">  Thank You for taking the time to view my GitHub Profile. Most of my works happens in private repositories on Github.
 </div>
 
-<h2> About Me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/File.gif" width = 50px></h2>
+<h2> About Me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/File.gif" width = 10px></h2>
 
 - 🔭 I’m currently a student
   
