@@ -7,7 +7,7 @@
 
 <h2> About Me <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/File.gif" width="50px"></h2>
 
-- 🔭 I’m currently a student
+- 🔭 I’m currently a student working for the Deutsche Telekom AG
   
 - <img width="25px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png"> I’m currently working with C#, Unity, Python
   
