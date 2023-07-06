@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a student working for the Deutsche Telekom AG
   
-- <img width="25px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png"> I’m currently working with C#, Unity, Python
+- <img width="25px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Construction.png"> I’m currently working with C#, Unity, Python and JavaScript
   
 
 <h2> Skills <img src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Code.webp" width="32px"> </h2>
@@ -26,7 +26,7 @@
   <a href="https://www.reddit.com/user/Marten_CSharp"><img width="32px" src="https://raw.githubusercontent.com/MartenEMD/MartenEMD/main/data/Reddit.png"></a>
 </p>
 
-[![Marten's github activity graph](https://activity-graph.herokuapp.com/graph?username=MartenEMD&custom_title=Marten's+activity&theme=react-dark&count_private=true&hide_border=true)](https://github.com/MartenEMD/github-readme-activity-graph)
+[![Marten's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MartenEMD&custom_title=Activity%20Graph&hide_border=true&theme=react-dark)](https://github.com/MartenEMD/github-readme-activity-graph)
 
 | ![Marten's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartenEMD&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Marten GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartenEMD&theme=tokyonight&count_private=true) |
 | --- | --- |
